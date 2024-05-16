@@ -1,4 +1,5 @@
-with open('binary_3.txt', 'r') as file1, open('byte_add_mem.txt', 'w') as file2:  //While running this code, change file1 here
+with open('binary_3.txt', 'r') as file1, open('byte_add_mem.txt', 'w') as file2:  
+  #While running this code, change file1 here
   ins = file1.read().splitlines()
   for i in ins:
     line1 = i[0:8]
