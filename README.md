@@ -12,12 +12,6 @@ There are two projects inside this repsitory.
 3. Cache Implementation : This includes a cache implementation code which give the overall cache hits and cache misses for a given output using a particular cache replacement policy. 
 For further details please refer to the documentation inside each project.
 
-## Technologies Used
-The following technologies are used in this repository:
-- **Python**: 82.3%
-- **Assembly**: 8.9%
-- **C**: 8.8%
-
 ## Usage
 Each project has its own set of instructions for running and testing. Refer to the guide files within the respective project directories for detailed instructions.
 
