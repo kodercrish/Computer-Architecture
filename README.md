@@ -14,9 +14,9 @@ For further details please refer to the documentation inside each project.
 
 ## Technologies Used
 The following technologies are used in this repository:
-- **Python**: 79.5%
-- **Assembly**: 10.3%
-- **C**: 10.2%
+- **Python**: 82.3%
+- **Assembly**: 8.9%
+- **C**: 8.8%
 
 ## Usage
 Each project has its own set of instructions for running and testing. Refer to the guide files within the respective project directories for detailed instructions.
